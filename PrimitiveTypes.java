@@ -1,3 +1,4 @@
+// GitHub: https://github.com/asavich-code/PrimitiveTypes
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 import java.util.function.Function;
